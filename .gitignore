@@ -1,0 +1,14 @@
+###> IDE ###
+.idea/
+###< IDE ###
+
+###> MacOS FS ###
+.DS_Store
+.DS_Store?
+###< MacOS FS ###
+
+###> Docker ###
+/docker/mysql/data/
+/docker/mariadb/data/
+/docker/nginx/logs/
+###< Docker ###
